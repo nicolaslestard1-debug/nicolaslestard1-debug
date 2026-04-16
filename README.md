@@ -1,16 +1,28 @@
 ## Hi there 👋
 
-<!--
-**nicolaslestard1-debug/nicolaslestard1-debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--# ¡Hola! Soy Nicolás Lestard 👋
 
-Here are some ideas to get you started:
+### Sociólogo & Analytics Consultant 📊
+Me dedico a cruzar el análisis social con la potencia de los datos para generar insights estratégicos. Soy Licenciado en Sociología por la **UBA** y actualmente trabajo como Junior Analytics Consultant en **Monks**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Stack Tecnológico
+* **Data Science:** Python (Pandas, Scikit-Learn)
+* **Visualización:** Power BI, Google Sheets, Matplotlib.
+* **Bases de Datos:** SQL.
+* **Google Analytics 4**
+* **Investigación:** Metodologías cuantitativas y cualitativas.
+
+## 📁 Proyectos Destacados
+* **Análisis Educativo:** Modelos de Machine Learning (XGBoost/Random Forest) para predecir tendencias educativas en Argentina.
+* **Desigualdad Urbana:** Investigación sobre desigualdades en el acceso a infraestructura en el AMBA.
+* **Sociología Histórica:** Procesamiento de datos sobre procesos de violencia política en Latam.
+* **Marketing Digital** Análisis de datos estratégicos para campañas de marketing. Cliente: Santander MEX
+
+---
+
+## 📫 Contacto
+* [LinkedIn](https://www.linkedin.com/in/nicolás-lestard-196219234/)
+* 📧 nicolaslestard1@gmail.com
+* 📧 nicolas.lestard@monks.com
