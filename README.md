@@ -27,7 +27,7 @@ Además, cuento con sólida formación en:
 * **Análisis Educativo:** Modelos de Machine Learning (XGBoost/Random Forest) para predecir tendencias educativas en Argentina.
 * **Desigualdad Urbana:** Investigación sobre desigualdades en el acceso a infraestructura en el AMBA.
 * **Sociología Histórica:** Procesamiento de datos sobre procesos de violencia política en Latam.
-* **Marketing Digital:** Análisis de datos estratégicos para campañas de marketing. Cliente: Santander MEX.
+* **Marketing Digital:** Análisis de datos estratégicos para campañas de marketing, auditorias, testing, definición de KPIs, Data Warehousing, StoryTelling. Cliente: Santander MEX.
 
 ---
 
