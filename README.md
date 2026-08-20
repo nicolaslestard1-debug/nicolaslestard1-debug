@@ -22,6 +22,7 @@ Además, cuento con sólida formación en:
 * **Bases de Datos:** SQL.
 * **Analytics** GA4, GTM
 * **Investigación:** Metodologías cuantitativas y cualitativas.
+* **IA** Cursor, Google AI Studio, Antigravity. 
 
 ## 📁 Proyectos Destacados
 * **Análisis Educativo:** Modelos de Machine Learning (XGBoost/Random Forest) para predecir tendencias educativas en Argentina.
