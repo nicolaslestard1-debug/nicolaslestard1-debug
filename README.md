@@ -11,9 +11,10 @@ Me dedico a cruzar el análisis social con la potencia de los datos para generar
 Me especializo en el uso de herramientas líderes para el análisis y la visualización de datos:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Cursor](https://img.shields.io/badge/Cursor-%23000000.svg?style=for-the-badge&logo=Cursor&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+
 ![Google Analytics 4](https://img.shields.io/badge/google_analytics_4-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
 
 Además, cuento con sólida formación en:
