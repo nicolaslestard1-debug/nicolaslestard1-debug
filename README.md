@@ -2,7 +2,7 @@
 
 ### Sociólogo & Analytics Consultant 📊
 
-Me dedico a cruzar el análisis social con la potencia de los datos para generar insights estratégicos. Soy Licenciado en Sociología por la **UBA** y actualmente trabajo como Junior Analytics Consultant en **Monks**.
+Me dedico a cruzar el análisis social con la potencia de los datos para generar insights estratégicos. Soy Licenciado en Sociología por la **UBA** y actualmente trabajo como Analytics Consultant en **Monks**.
 
 ---
 
