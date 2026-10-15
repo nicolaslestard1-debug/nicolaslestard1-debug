@@ -19,7 +19,7 @@ Me especializo en el uso de herramientas líderes para el análisis y la visuali
 
 Además, cuento con sólida formación en:
 * **Data Science:** Python (Pandas, Scikit-Learn)
-* **Visualización:** Power BI, Google Sheets, Matplotlib.
+* **Visualización:** DataStudio (Ex LookerStudio), Power BI, Google Sheets, Matplotlib.
 * **Bases de Datos:** SQL.
 * **Analytics** GA4, GTM
 * **Investigación:** Metodologías cuantitativas y cualitativas.
